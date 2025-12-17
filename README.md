@@ -1,2 +1,5 @@
 # Kel_3_PKSJ_RABU-10.00
 HARDENING SISTEM LINUX DAN AUDIT KEAMANAN 
+NAMA: Andy Rusliandy - 2201020137
+      Mahera Sovie Putra - 2201020140
+      Bimantara Putra Lubis - 2201020069
